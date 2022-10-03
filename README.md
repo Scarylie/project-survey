@@ -1,13 +1,10 @@
 # Survey form with React
-
-Replace this readme with your own information about your project.
-
-Start by briefly describing the assignment in a sentence or two. Keep it short and to the point.
+Typeform-like survey to collect data using React State. The survey was made into a mad lib where the input is displayed in a story about a dragon.
 
 ## The problem
 
-Describe how you approached to problem, and what tools and techniques you used to solve it. How did you plan? What technologies did you use? If you had more time, what would be next?
+I would like to have the input as required as  a next step. Now only the first question is required, where there is only one input option for name. This was made by setting the form input as required. I tried to solve the other questions by making requirements to the onSubmit function but it didnt work. 
 
 ## View it live
 
-Every project should be deployed somewhere. Be sure to include the link to the deployed project so that the viewer can click around and see what it's all about.
+https://mad-lib-dragon-sneeze.netlify.app/
